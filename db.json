@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 200
+    },
+    {
+      "name": "Product Add",
+      "price": 400,
+      "id": 3
+    },
+    {
+      "name": "11111",
+      "id": 5
+    },
+    {
+      "name": "Sản phẩm mới",
+      "price": 400,
+      "id": 6
+    },
+    {
+      "name": "aaaa",
+      "id": 7
+    },
+    {
+      "name": "ababdhsd",
+      "id": 8
+    },
+    {
+      "name": "aadsdsdas",
+      "id": 9
+    }
+  ]
+}
